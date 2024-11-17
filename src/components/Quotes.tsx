@@ -4,14 +4,13 @@ const Quotes = () => {
       <div className="flex justify-center ">
         <div className="max-w-lg">
           <div className="text-3xl font-bold">
-            The customer service I recieved was exceptional. The support team went above and 
-            beyond to address my concerns.
+          "InspireWrite: A Secure Cloud-Based Platform to Inspire and Be Inspired by Blogs from Students and Professionals"
           </div>
           <div className="flex justify max-w-md text-xl font-bold mt-4">
-            Jules Winfield
+            Team InspireWrite
           </div>
           <div className="flex justify max-w-md text-sm font-medium text-slate-700">
-            CEO | Acme
+            CEO | IW
           </div>
         </div>
       </div>
