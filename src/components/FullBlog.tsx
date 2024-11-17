@@ -28,8 +28,7 @@ export const FullBlog = ({ blog }: { blog: Blog }) => {
                   {blog.author.name || "Anonymous"}
                 </div>
                 <div className="pt-2 text-slate-500">
-                  Random catch phrase about the author's ability to grab the
-                  user's attention
+                InspireWrite: A Secure Cloud-Based Platform to Inspire and Be Inspired by Blogs from Students and Professionals
                 </div>
               </div>
             </div>
